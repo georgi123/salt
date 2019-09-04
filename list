@@ -1,0 +1,37 @@
+ 1011  salt salt-minion sys.list_functiions grains
+ 1012  salt salt-minion sys.list_functions grains
+ 1014  salt salt-minion grains.itens
+ 1015  salt salt-minion grains.items
+ 1017  salt salt-minion grains.ls
+ 1018  salt salt-minion grains.ipv4
+ 1019  salt salt-minion grains.ls items
+ 1020  salt salt-minion grains.ls(items)
+ 1022  salt salt-minion grains.items
+ 1024  salt salt-moinion sys.list_functions grains
+ 1025  salt salt-minion sys.list_functions grains
+ 1116  mkdir _grains
+ 1446  salt zabbix sys.list_functions grains
+ 1453  salt  zabbix grains.item
+ 1454  salt  zabbix grains.items
+ 1778  salt-call sys.list_functions grains
+ 1779  salt-call grains.get
+ 1780  salt-call grains.get pkg.mysql
+ 1782  salt-local grains.items
+ 1783  salt-local grains.item
+ 1784  salt-local grains.items
+ 1785  salt-call grains.items
+ 1786  salt jenkins grains.items
+ 1787  salt-call sys.list_functions grains
+ 1945  cta  /etc/salt/grains 
+ 1946  cat  /etc/salt/grains 
+ 1947  salt zabbix grains.items
+ 1950  salt * grains.myenv roles
+ 1951  salt * grains.item myenv roles
+ 1952  salt * grains.item myenv 
+ 1953  salt * grains.item 
+ 1954  salt zabbix  grains.item  os
+ 1955  salt zabbix  grains.item  roles
+ 1959  salt-call state.list_functions grains
+ 1963  salt zabbix sys.list_functions grains
+ 1965  history|grep grains
+ 1966  history|grep grains > list
